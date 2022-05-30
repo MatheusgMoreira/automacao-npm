@@ -6,6 +6,8 @@ Automação front-end utilizando gulp para converter SCSS e usar o uglify para c
 
 Utilização
 
+copiar os aquivos gulpfile.js e package.json
+<br>
 $ npm install
 <br>
 $ npm gulp
