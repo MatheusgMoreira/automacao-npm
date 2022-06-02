@@ -8,5 +8,5 @@ copiar os aquivos gulpfile.js e package.json
 <br>
 $ npm install
 <br>
-$ npm gulp
+$ gulp
 
